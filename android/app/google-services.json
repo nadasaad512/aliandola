@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850392193304",
+    "project_id": "aliandola-36c1c",
+    "storage_bucket": "aliandola-36c1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850392193304:android:2a1ec5d20e15474765a66d",
+        "android_client_info": {
+          "package_name": "com.example.aliandola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850392193304-n5grduckgs8r481uj3orrnh4ijtd2aob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv0SBNphaqaUJphvFPVeI4C0JlFbnAspw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850392193304-n5grduckgs8r481uj3orrnh4ijtd2aob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
